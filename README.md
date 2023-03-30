@@ -1,2 +1,2 @@
-# Tick-Tack-Toeeee
-Tick-Tac-Toeee
+# Generator
+Global Travel Generator
